@@ -1,1 +1,1 @@
-# -移动端轮播图fork地址
+ https://qp0910.github.io/lunbo/index.html
